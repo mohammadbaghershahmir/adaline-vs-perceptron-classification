@@ -29,7 +29,7 @@ AdlineVsPerceptron.py     → Full implementation: data loading, model training,
 git clone https://github.com/mohammadbaghershahmir/adaline-vs-perceptron-classification.git
 ```
 
-2. Place your dataset file `Project2_dataset.xlsx` in the working directory.
+2. Place your dataset file `dataset.xlsx` in the working directory.
 
 3. Install dependencies:
 ```
